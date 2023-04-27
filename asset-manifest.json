@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-project-bookmyshow/static/css/main.6d957db8.css",
+    "main.js": "/react-project-bookmyshow/static/js/main.e8d14025.js",
+    "static/js/787.833be13e.chunk.js": "/react-project-bookmyshow/static/js/787.833be13e.chunk.js",
+    "index.html": "/react-project-bookmyshow/index.html",
+    "main.6d957db8.css.map": "/react-project-bookmyshow/static/css/main.6d957db8.css.map",
+    "main.e8d14025.js.map": "/react-project-bookmyshow/static/js/main.e8d14025.js.map",
+    "787.833be13e.chunk.js.map": "/react-project-bookmyshow/static/js/787.833be13e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d957db8.css",
+    "static/js/main.e8d14025.js"
+  ]
+}
